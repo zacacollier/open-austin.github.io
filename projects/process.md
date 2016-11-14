@@ -35,7 +35,7 @@ Check out the ideas at https://github.com/open-austin/project-ideas/issues.
 Email info@open-austin.org or ask on the [Open Austin Slack](http://slack.open-austin.org).
 
 
-## Poject stages
+## Project Stages
 
 Open Austin uses [Code for America's four project stages](https://www.codeforamerica.org/brigade/projects/stages).
 
