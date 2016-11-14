@@ -37,24 +37,24 @@ Email info@open-austin.org or ask on the [Open Austin Slack](http://slack.open-a
 
 ## Project Stages
 
-Open Austin uses [Code for America's four project stages](https://www.codeforamerica.org/brigade/projects/stages).
+Open Austin uses four stages of development for projects:
 
-- [Experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment)
-- [Alpha](https://www.codeforamerica.org/brigade/projects/stages#alpha)
-- [Beta](https://www.codeforamerica.org/brigade/projects/stages#beta)
-- [Official](https://www.codeforamerica.org/brigade/projects/stages#official)
+- **Experiment**
+- **Alpha**
+- **Beta**
+- **Official**
 
 ### Start an **Experiment**
 
-The **experiment** stage is all about exploring problems/ideas. Open Austin should have plenty of projects at the experiment stage. Most projects will end at this stage, and thats okay.
+The **experiment** stage is all about exploring problems/ideas. Open Austin should have plenty of projects at the experiment stage. Most projects will end at this stage, and that's okay.
 
-1. Do something and tell us about it. Open an issue at https://github.com/open-austin/project-ideas/issues and tag it with experiment.
+1. Do something and tell us about it. Open an issue at https://github.com/open-austin/project-ideas/issues and tag it with `experiment`.
 2. Tell us if you need any resources to get started (AWS hosting, Cartodb, mockup tools, etc.)
 3. Come to an [Open Austin event](/events) and work on share your project
 
 ### Experiment to **Alpha**
 
-The **alpha** stage is about making sure your project solves a person's/group's problem.
+The **alpha** stage is about making sure your project solves a particular problem.
 
 :information_source:  This is the point at which a project becomes an "approved" Open Austin project.
 
@@ -63,14 +63,14 @@ The **alpha** stage is about making sure your project solves a person's/group's 
 3. Explain
   - What problem the project tries to solve
   - Who the users are
-4. List the project on [open-austin.org/projects](https://open-austin.org/projects) [link to how-to](https://github.com/open-austin/open-austin.github.io/wiki/How-to-Add-a-Project-Page)
+4. List the project on the [Open Austin project page](https://open-austin.org/projects) - [here's] (https://github.com/open-austin/open-austin.github.io/wiki/How-to-Add-a-Project-Page) how
 5. Go through a code/architecture review
   - What is the architecture of your project? _We may ask you to make changes to the architecture._
   - How do you deploy the project?
 
 ### Alpha to **Beta**
  
-The the **beta** stage is about getting "more users" and "more feedback." The project should be looking for more users and recording more metrics.
+The **beta** stage is about getting "more users" and "more feedback." The project should be looking for more users and recording more metrics.
 
 1. You should look for government or community partners, if applicable
 2. Start polishing the app
@@ -81,6 +81,6 @@ The the **beta** stage is about getting "more users" and "more feedback." The pr
 
 A project becomes **official** when it's polished, well known, has a community partner, and the project leaders have a good sense of the impact of the project. 
 
-1. Have a launch event! Congratulations, you've done an awesome job, it's time to enjoy your work.
-2. Have your metrics for usage and impact readily available.
+1. Have a launch event! Congratulations, you've done an awesome job, it's time to enjoy your work
+2. Have your metrics for usage and impact readily available
 
