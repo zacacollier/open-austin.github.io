@@ -25,11 +25,12 @@
 	- `brew install ruby-install`
 	- `ruby-install ruby 2.2.2`
 
-- Install [**chruby**](https://github.com/postmodern/chruby) to switch ruby versions.
-	- `brew install chruby`
-	- `chruby ruby 2.2.2`
+- Install [**rvm**](https://rvm.io/) to switch ruby versions.
+	- `gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3`
+	- `\curl -sSL https://get.rvm.io | bash -s stable`
+	- `rvm use 2.2.2`
 
-- Install [**jekyll**](https://github.com/postmodern/chruby) to install Jekyll.
+- Install [**jekyll**](https://jekyllrb.com/) to install Jekyll.
 	- `gem install jekyll`
 
 ## Start Jekyll
