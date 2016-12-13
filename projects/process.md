@@ -50,7 +50,7 @@ The **experiment** stage is all about exploring problems/ideas. Open Austin shou
 
 1. Do something and tell us about it. Open an issue at https://github.com/open-austin/project-ideas/issues and tag it with `experiment`.
 2. Tell us if you need any resources to get started (AWS hosting, Cartodb, mockup tools, etc.)
-3. Come to an [Open Austin event](/events) and work on share your project
+3. Come to an [Open Austin event](/events) and share your project
 
 ### Experiment to **Alpha**
 
