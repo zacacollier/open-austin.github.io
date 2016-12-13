@@ -30,8 +30,9 @@
 	- `\curl -sSL https://get.rvm.io | bash -s stable`
 	- `rvm use 2.2.2`
 
-- Install [**jekyll**](https://jekyllrb.com/) to install Jekyll.
+- Install [**jekyll**](https://jekyllrb.com/) and its dependency **jekyll-paginate**.
 	- `gem install jekyll`
+	- `gem install jekyll-paginate`
 
 ## Start Jekyll
 
